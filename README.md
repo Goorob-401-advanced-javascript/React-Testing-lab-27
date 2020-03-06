@@ -1,5 +1,5 @@
 # React-Testing-lab-27
-Travis: 
+github : https://goorob-401-advanced-javascript.github.io/React-Testing-lab-27/
 Netlify: 
 
 [uml](11.jpg)
