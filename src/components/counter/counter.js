@@ -39,7 +39,7 @@ class Counter extends React.Component {
                 <div>
                    <section> counter : {this.state.count}</section> 
                    <p className={classes}>{this.state.polarity}</p>
-                    <button type="button" onClick={this.counterIncrement}><span>+</span></button>
+                    <button type="button" className="up" onClick={this.counterIncrement}><span>+</span></button>
                     <button type="button" onClick={this.counterDecrement}><span>-</span></button>
                     
                 </div>
