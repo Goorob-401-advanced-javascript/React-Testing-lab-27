@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/Goorob-401-advanced-javascript/React-Testing-lab-27/issues"
   },
-  "homepage": "https://Goorob.github.io/React-Testing-lab-27/",
+  "homepage": "/",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
