@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Testing-lab-27/static/css/main.01285c34.chunk.css",
+    "main.js": "/React-Testing-lab-27/static/js/main.81131a6f.chunk.js",
+    "main.js.map": "/React-Testing-lab-27/static/js/main.81131a6f.chunk.js.map",
+    "runtime-main.js": "/React-Testing-lab-27/static/js/runtime-main.560ef85f.js",
+    "runtime-main.js.map": "/React-Testing-lab-27/static/js/runtime-main.560ef85f.js.map",
+    "static/js/2.6757f3a3.chunk.js": "/React-Testing-lab-27/static/js/2.6757f3a3.chunk.js",
+    "static/js/2.6757f3a3.chunk.js.map": "/React-Testing-lab-27/static/js/2.6757f3a3.chunk.js.map",
+    "index.html": "/React-Testing-lab-27/index.html",
+    "precache-manifest.4c1c2378c7afa2f48f1bd50ea6c750b6.js": "/React-Testing-lab-27/precache-manifest.4c1c2378c7afa2f48f1bd50ea6c750b6.js",
+    "service-worker.js": "/React-Testing-lab-27/service-worker.js",
+    "static/css/main.01285c34.chunk.css.map": "/React-Testing-lab-27/static/css/main.01285c34.chunk.css.map",
+    "static/js/2.6757f3a3.chunk.js.LICENSE.txt": "/React-Testing-lab-27/static/js/2.6757f3a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.560ef85f.js",
+    "static/js/2.6757f3a3.chunk.js",
+    "static/css/main.01285c34.chunk.css",
+    "static/js/main.81131a6f.chunk.js"
+  ]
+}
